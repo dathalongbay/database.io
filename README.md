@@ -3,8 +3,8 @@ SQL MySQL Database design Memcache Redis SQL Lite JSON XML Excel Elasticsearch L
 
 
 No SQL  
-MongoDB
-Master Slave
-Database Design
-ENV Model 
+MongoDB  
+Master Slave  
+Database Design  
+ENV Model  
 
